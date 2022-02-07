@@ -21,8 +21,8 @@
 
 <div align="left">
   <a href="https://github.com/dSilva-Lucas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lukzit&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="105em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukzit&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dSilva-Lucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="105em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dSilva-Lucas&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
