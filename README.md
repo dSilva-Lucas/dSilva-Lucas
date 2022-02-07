@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Prazer sou o <strong>José Lucas</strong>, tenho 25 anos e moro em <strong>Atibaia/SP</strong>.<br>
+  Prazer sou o <strong>Lucas Silva</strong>, tenho 25 anos e moro em <strong>Atibaia/SP</strong>.<br>
   Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela USF.<br>
   Estou em transição de carreira da área de manufatura para desenvolvimento.
 </p>
